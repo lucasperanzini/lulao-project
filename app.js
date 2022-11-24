@@ -1,1 +1,1 @@
-console.log("sou lindo") #atualzei
+console.log("sou lindo") 
